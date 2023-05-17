@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="new" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="GNNMLBP">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="new">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/zhd/MLBP/MLBP" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/root/autodl-tmp/zhd/MLBP/MLBP/data1/" />
+            <excludedPath path="/root/autodl-tmp/zhd/MLBP/MLBP/BiGRU_base2/" />
+            <excludedPath path="/root/autodl-tmp/zhd/MLBP/MLBP/BiGRU_base/" />
+            <excludedPath path="/root/autodl-tmp/zhd/MLBP/MLBP/__pycache__/" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="root@region-7.autodl.com:30365">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-7.autodl.com:30365 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-7.autodl.com:30365 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
